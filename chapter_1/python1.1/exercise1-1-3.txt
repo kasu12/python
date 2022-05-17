@@ -1,0 +1,4 @@
+a. SyntaxError: invalid syntax
+b. ModuleNotFoundError: No module named 'sdio'
+c. nothing will happen because it is a comment
+d. AttributeError: module 'stdio' has no attribute 'witeln'
