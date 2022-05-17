@@ -1,0 +1,3 @@
+a. SyntaxError: EOL while scanning string literal
+b. we will have the same mistake as above
+c. we don't get any error or output
