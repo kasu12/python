@@ -1,6 +1,0 @@
-a. it will print "Hi, python. How are you?"
-b. it will print "bash: !: event not found"
-c. it will print "Hi, 1234. How are you?"
-d. it will print "Hi, Bob. How are you?"
-e. it will print "usratgument.py: command not found"
-f. it will print "Hi, Alice. How are you?"
