@@ -1,10 +1,19 @@
-# chapter_1 exercise1-1-1 upto exercise1-1-6 solution
+# Elements of Programming
 
 ---
 
+> ## what we will cover on this chapter
 
-### Those exercise mainly focuses
+---
 
-- **exercise1-1-1**:- printing Hello world 10 tmes
-- _from_ **exercise1-1-2** **-** **exercise1-1-5**:- descibing types of errors
-- **exercise1-1-6**:- printing name in reverse order
+_Solution on_ **section 1.1:-** Your First Program
+
+_Solution on_ **section 1.2:-** Built-in Types of Data
+
+_Solution on_ **section 1.3:-** Conditionals and Loops
+
+_Solution on_ **section 1.4:-** Arrays
+
+_Solution on_ **section 1.5:-** Input and Output
+
+Solution on_ **section 1.6:-** Case Study: Random Web Surfer
