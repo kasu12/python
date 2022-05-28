@@ -1,0 +1,10 @@
+a. it will write value of "a" which is "3.14159"
+
+b. it will write the addition of "a" and "1.0" which is "4.14159"
+
+c. it will write the division of "8" by the converted  value of "a" which is "2"
+
+d. it will write the division of "8" by the value of "a"
+
+e. first it will divide "8" by the value of "a" then it will converte the value to integer finally it will write the converted value.
+
