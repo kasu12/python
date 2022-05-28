@@ -1,0 +1,1 @@
+if we use "sqrt" instead of "math.sqrt" we will get an error that says "NameError: name 'sqrt' is not defined"
