@@ -1,0 +1,7 @@
+import stdio
+import math
+
+x = 9
+y = 3
+
+stdio.writeln(math.hypot(x,y))
