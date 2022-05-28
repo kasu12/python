@@ -1,0 +1,27 @@
+a. it will print the addition of "2" and "3" which is "5"
+
+b. it will print the addition of "2.2" and "3.3" which is "5.5"
+
+c. it will concatenate "2" and "3" which is "23"
+
+d. it will concatenate "2.2" and "3.3" which is "2.23.3"
+
+e. first it will convert "2" and "3" into string then it will concatenate them which is "23"
+
+f. first it will convert "2.2" and "3.3" into string then it will concatenate  them which is "2.23.3"
+
+g. first it will convert "2" and "3" into integer then it will add them which is "5"
+
+h. first it will concatenate "2" and "3" then it will convert the value into integer  which is "5"
+
+i.first it will convert "2" and "3" into float then it will add them which is "5.0"
+
+j. first it will concatenate "2" and "3" then it will convert the value into float  which is "23.0"
+
+k. first it will add "2.6" and "2.6" then it will convert the value to integer which is "5"
+
+l. first it will convert "2.6" and "2.6" to integer value then it will add those value which is "4"
+
+
+
+
